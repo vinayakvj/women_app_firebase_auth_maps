@@ -57,18 +57,18 @@ export default class App extends Component {
 
 const styles = StyleSheet.create({
   container: {
-    marginTop: 100,
+    marginTop: 335,
   },
   eachCon: {
     margin: 10,
   },
   txt: {
-    marginLeft: 70,
+    marginLeft: 45,
+    color: '#d41568'
   },
   icon: {
     fontSize: 44,
-    color: "rgb(212,21,104)",
-    margin: 10,
+    color: '#d41568'
   },
   input: {
     height: 50,

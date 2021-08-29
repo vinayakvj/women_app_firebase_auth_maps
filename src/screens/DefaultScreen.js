@@ -62,7 +62,7 @@ const styles = StyleSheet.create({
     alignItems: "center",
   },
   txt: {
-    color: "#b80646",
+    color: "#d41568",
     fontWeight: "bold",
     fontSize: 30,
     padding: 30,
@@ -71,7 +71,7 @@ const styles = StyleSheet.create({
     height: 100,
     width: 280,
     marginTop: "15%",
-    backgroundColor: "#b80646",
+    backgroundColor: "#d41568",
     fontSize: 40,
     borderRadius: 10,
   },
